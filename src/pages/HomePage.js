@@ -14,6 +14,7 @@ export default function HomePage() {
 
         <header className="bg-gradient-to-r from-blue-900 to-blue-700 text-white py-8 px-6 text-center">
           <h1 className="text-4xl font-bold mb-2">Magnetic Middle East Trading</h1>
+          <h1 className="text-4xl font-bold mb-2">✅ Welcome to Magnetic Middle East Trading</h1>
           <p className="text-lg">Your Global Partner in Building Materials</p>
         </header>
 
