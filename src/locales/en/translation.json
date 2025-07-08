@@ -1,0 +1,38 @@
+{
+  "brand": "Magnetic",
+  "home": "Home",
+  "aboutLink": "About",
+  "contactLink": "Contact",
+  "about": {
+    "title": "About Us",
+    "desc": "Magnetic Middle East Trading is a UAE-based leader in the supply of premium building materials, serving both large-scale projects and retail clients across the region."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Your Name",
+    "email": "Email Address",
+    "message": "Message",
+    "send": "Send Message"
+  },
+  "mainHeading": "Magnetic Middle East Trading",
+  "subHeading": "Your Global Partner in Building Materials",
+  "products": {
+    "title": "Explore Premium Building Materials",
+    "description": "Supplying Cement, Bricks, and Steel across UAE & GCC",
+    "cement": {
+      "name": "Cement",
+      "desc": "High-quality cement suitable for all structural and finishing needs.",
+      "price": "650 AED / ton"
+    },
+    "bricks": {
+      "name": "Red Bricks",
+      "desc": "Durable red bricks for reliable construction.",
+      "price": "2.5 AED / piece"
+    },
+    "steel": {
+      "name": "Reinforced Steel",
+      "desc": "Standard-compliant reinforced steel bars for construction.",
+      "price": "2200 AED / ton"
+    }
+  }
+}
